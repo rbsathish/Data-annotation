@@ -12,6 +12,7 @@ TXT
     YOLO Darknet
     YOLO v3 Keras
     YOLO v4 PyTorch
+    Tiny YOLO
        
 XML
     
