@@ -12,11 +12,13 @@ TXT
     YOLO Darknet
     YOLO v3 Keras
     YOLO v4 PyTorch
+    
     Tiny YOLO
        
 XML
     
     Pascal VOC
+    Tensorflow Object Detection
    
 CSV
 
@@ -27,7 +29,8 @@ JSON
     
     COCO
     CreateML
-   
+    Tensorflow Object Detection
+    
 TFRECORD
 
     Tensorflow Object Detection
